@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bjXmzx9CUrE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\suhairi.sulaiman\\Desktop\\TRAINING KPKT 30 JULAI 2026\\graphify\\tests\\fixtures\\xaml_viewmodel\\App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\suhairi.sulaiman\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.30\\microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\suhairi.sulaiman\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.30\\microsoft.windowsdesktop.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\suhairi.sulaiman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.30\\microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
